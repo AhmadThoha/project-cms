@@ -1,0 +1,1 @@
+produk/foto/' . $this->input->post('kode_produk')
